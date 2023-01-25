@@ -13,3 +13,7 @@ Trata-se do diagrama elétrico mais usado na obra, pois é utilizado juntamente 
 **INICIANDO APLICAÇÃO**
 
 Ao Fazer o download do projeto, salve todos arquivos em uma pasta separada **(Não renomeie nenhum arquivo e pasta)**
+
+Abra o arquivo em excel Unifilar_v2
+
+![img1](https://user-images.githubusercontent.com/49642934/214470639-473ad278-a6cc-454f-abad-880fb03ac32f.PNG)
