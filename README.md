@@ -7,3 +7,9 @@ Diagrama Unifilar é um desenho técnico desenvolvido com softwares específicos
 Ele faz parte dos projetos complementares e é criado pelo eletricista a partir da necessidade energética do ambiente.
 
 Trata-se do diagrama elétrico mais usado na obra, pois é utilizado juntamente com a planta baixa arquitetônica.
+
+-----------------------
+
+**INICIANDO APLICAÇÃO**
+
+Ao Fazer o download do projeto, salve todos arquivos em uma pasta separada **(Não renomeie nenhum arquivo e pasta)**
