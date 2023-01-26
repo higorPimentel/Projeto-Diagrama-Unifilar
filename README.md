@@ -21,7 +21,7 @@ Abra o arquivo em excel Unifilar_v2
 
  -----------------------
  
- - Ao executar o sistema preencha as duas telas de cadastro. O diagrama unifilar que será gerado, é baseado nos dados preenhido, bem como o tipo de projeto (Ex. Unifilar de 1 / 2 / 3 ou 4 Eentradas). Conformeo cadatro teste abaixo, o diagrama unifilar que será gerado, contém somente 3 entradas.
+ - Ao executar o sistema preencha as duas telas de cadastro. O diagrama unifilar que será gerado, é baseado nos dados preenhido, bem como o tipo de projeto (Ex. Unifilar de 1 / 2 / 3 ou 4 Eentradas). Conforme o cadatro teste abaixo, o diagrama unifilar que será gerado, contém 3 entradas.
 
 **Tela de Cadastro 1**
 ![2](https://user-images.githubusercontent.com/49642934/214473645-e3896daa-6d22-48eb-871f-043f2f28ff3c.PNG)
